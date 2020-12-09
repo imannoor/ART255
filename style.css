@@ -1,0 +1,241 @@
+* {
+  font-family: 'Dosis', sans-serif;
+}
+
+.header {
+  color: #696969;
+}
+
+.heart {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: auto;
+  margin-top: 100px;
+}
+
+
+#links {
+  display: flex;
+  display: inline-block;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.pages {
+  padding: 10px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+img {
+  padding: 0px;
+  margin-right: 10px;
+}
+
+a {
+  color: #7FBF8D;
+  text-decoration: none;
+}
+
+.header {
+  font-size: 60px;
+  margin-left: 30px;
+  margin-top:-70px;
+}
+
+
+.ourmission {
+  font-size: 20px;
+  color: #CCD1D1;
+}
+
+.pic-of-us {
+  width: auto;
+  height: 400px;
+  margin-top: 20px;
+}
+
+.pic-of-us-statement {
+  margin-top: 50px;
+}
+
+
+
+.email {
+  margin-top: 200px;
+}
+
+.mark {
+  height: 50px;
+  margin-left: 150px;
+  margin-bottom: 30px;
+  margin-top: 0px;
+}
+
+.wordquote {
+  font-size: 35px;
+  color: #CCD1D1;
+}
+
+.citation {
+  margin-left: 900px;
+  margin-top: 65px;
+  font-size: 35px;
+  color: #CCD1D1;
+}
+
+.lifestyle-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: auto;
+  height: 50px;
+  width: auto;
+  margin-top: 100px;
+}
+
+.lifestyle-icons-description {
+  margin-top: 200px
+}
+
+
+.boxes {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 450px;
+}
+
+
+.stars-container{
+  border: 1px solid;
+  margin: 50px;
+  width: 525px;
+  height: 105px;
+}
+
+.top-part{
+  text-align:center;
+  justify-content:center;
+  margin: 50px;
+}
+.star {
+  background: url('./assets/gray-trash.png');
+  background-size: cover;
+  width:50px;
+  height:50px;
+  margin:20px;
+
+}
+
+.hover {
+  background: url('./assets/light-green-trash.png');
+  background-size: cover;
+}
+.filled {
+    background: url('./assets/dark-green-trash.png');
+    background-size: cover;
+  }
+
+ol {
+  list-style-type: none;
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.Quote1 {
+  height:50px;
+  margin-left: 90px;
+}
+.citation-why-me {
+  font-size: 10px;
+  margin-left:480px;
+  margin-top:65px;
+  font-size: 35px;
+  color: #CCD1D1;
+}
+.Pagebreak {
+Height: auto;
+margin-bottom: -50px;
+width: 100%;
+margin-left: -100px;
+}
+
+
+.ourmission {
+  font-size: 30px;
+  color: #CCD1D1;
+  margin-top: -10px;
+  margin-left: 180px;
+}
+
+
+.column {
+  float: left;
+  width: 30%;
+  padding: 5px;
+}
+
+
+.column img {
+  opacity: 0.8; 
+  cursor: pointer; 
+}
+
+.column img:hover {
+  opacity: 1;
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+
+}
+
+.container {
+  position: relative;
+  display: none;
+}
+
+
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+.closebtn {
+  position: absolute;
+  top: 5px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+    
+}
+
+
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
