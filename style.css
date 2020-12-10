@@ -70,7 +70,7 @@ a {
 
 .mark {
   height: 50px;
-  margin-left: 150px;
+  margin-left: px;
   margin-bottom: 30px;
   margin-top: 0px;
 }
@@ -97,9 +97,7 @@ a {
   margin-top: 100px;
 }
 
-.lifestyle-icons-description {
-  margin-top: 200px
-}
+
 
 
 .boxes {
@@ -117,19 +115,7 @@ a {
   height: 105px;
 }
 
-.top-part{
-  text-align:center;
-  justify-content:center;
-  margin: 50px;
-}
-.star {
-  background: url('./assets/gray-trash.png');
-  background-size: cover;
-  width:50px;
-  height:50px;
-  margin:20px;
-
-}
+.
 
 .hover {
   background: url('./assets/light-green-trash.png');
@@ -147,9 +133,10 @@ ol {
   justify-content: center;
 }
 
-.Quote1 {
-  height:50px;
-  margin-left: 90px;
+.quote {
+  height:80px;
+    margin-top: 80px;
+  margin-left: 0px;
 }
 .citation-why-me {
   font-size: 10px;
