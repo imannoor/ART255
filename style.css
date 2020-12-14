@@ -7,7 +7,6 @@
     
 }
 
-
 .ya {
     margin-left: 600px;
 }
@@ -97,14 +96,6 @@ a {
 }
 
 
-.stars-container{
-  border: 1px solid;
-  margin: 50px;
-  width: 525px;
-  height: 105px;
-}
-
-.
 
 .hover {
   background: url('./assets/light-green-trash.png');
@@ -127,9 +118,9 @@ ol {
     margin-top: 80px;
   margin-left: 0px;
 }
-.citation-why-me {
-  font-size: 10px;
-  margin-left:480px;
+.citation{
+  font-size: 6px;
+  margin-left:850px;
   margin-top:65px;
   font-size: 35px;
   color: #CCD1D1;
